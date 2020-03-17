@@ -1,0 +1,6 @@
+module Pods_desafio_ios_rafael_lehn {
+  umbrella header "Pods-desafio-ios-rafael-lehn-umbrella.h"
+
+  export *
+  module * { export * }
+}
